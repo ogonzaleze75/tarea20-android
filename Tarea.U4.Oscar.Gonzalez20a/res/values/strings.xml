@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Productos Frescos S.A</string>
+    <string name="action_settings">Propiedades</string>
+    <string name="title_activity_usuario_lista">Usuarios</string>
+    
+    <string name="title_activity_usuario_nuevo">Agregar Usuario</string>
+    <string name="title_activity_usuario_editar">Editar Usuario</string>
+    <string name="str_mn_usuario_nuevo">Agregar Usuario</string>
+    <string name="str_mn_usuario_salir">Salir</string>
+    <string name="str_usuario_nombre">Nombre Usuario:</string>
+    <string name="str_usuario_login">Login Usuario:</string>
+    <string name="str_usuario_password">Contraseña Usuario:</string>
+    <string name="str_usuario_ingresar">Agregar</string>
+    <string name="str_usuario_editar">Editar</string>
+    <string name="str_usuario_nuevo_volver">Volver</string>
+    <string name="hello_world">Hello world!</string>
+     <string name="title_activity_activity_maps">Activity_maps</string>
+
+</resources>
