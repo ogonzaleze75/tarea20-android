@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fresh Produce S.A</string>
+    <string name="action_settings">Propriétés</string>
+    <string name="title_activity_usuario_lista">Utilisateurs</string>
+    
+    <string name="title_activity_usuario_nuevo">Ajouter un utilisateur</string>
+    <string name="title_activity_usuario_editar">Modifier l'utilisateur</string>
+    <string name="str_mn_usuario_nuevo">Ajouter un utilisateur</string>
+    <string name="str_mn_usuario_salir">Laisser</string>
+    <string name="str_usuario_nombre">Nom d'utilisateur:</string>
+    <string name="str_usuario_login">Nom d'utilisateur:</string>
+    <string name="str_usuario_password">Mot de passe utilisateur:</string>
+    <string name="str_usuario_ingresar">Ajouter</string>
+    <string name="str_usuario_editar">Modifier</string>
+    <string name="str_usuario_nuevo_volver">Retour</string>
+    <string name="hello_world">Salut monde!</string>
+     <string name="title_activity_activity_maps">Activity_maps</string>
+
+</resources>

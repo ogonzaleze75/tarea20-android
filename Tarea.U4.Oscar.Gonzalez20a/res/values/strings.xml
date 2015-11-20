@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fresh Product S.A</string>
+    <string name="action_settings">Propiedades</string>
+    <string name="title_activity_usuario_lista">Usuarios</string>
+    
+    <string name="title_activity_usuario_nuevo">Add User</string>
+    <string name="title_activity_usuario_editar">Edit User</string>
+    <string name="str_mn_usuario_nuevo">Add User</string>
+    <string name="str_mn_usuario_salir">Exit</string>
+    <string name="str_usuario_nombre">Name User:</string>
+    <string name="str_usuario_login">Login User:</string>
+    <string name="str_usuario_password">Password User:</string>
+    <string name="str_usuario_ingresar">Add</string>
+    <string name="str_usuario_editar">Edit</string>
+    <string name="str_usuario_nuevo_volver">Return</string>
+    <string name="hello_world">Hello world!</string>
+     <string name="title_activity_activity_maps">Activity_maps</string>
+
+</resources>
