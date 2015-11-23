@@ -16,6 +16,6 @@
     <string name="str_usuario_editar">Editar</string>
     <string name="str_usuario_nuevo_volver">Volver</string>
     <string name="hello_world">Hola Mundo!</string>
-     <string name="title_activity_activity_maps">Activity_maps</string>
+    <string name="title_activity_activity_maps">Activity_maps</string>
 
 </resources>

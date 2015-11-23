@@ -1,5 +1,7 @@
 package cl.inacap.cursoandroid.unidad4.Crud;
 
+
+import cl.inacap.cursoandroid.unidad4.Crud.ConversionMoneda;
 import cl.inacap.cursoandroid.unidad4.Crud.ProductosFrescosGlobal;
 import cl.inacap.cursoandroid.unidad4.Crud.UsuarioListaActivity;
 import cl.inacap.cursoandroid.unidad4.business.UsuarioBS;
@@ -34,6 +36,7 @@ public class UsuarioNuevoActivity extends Activity {
 	private ImageButton imUsuario;
 	private ImageButton imEditar;
 	private ImageButton imEliminar;
+	private ImageButton imPesos;
 	private Button btnMapa;
 	
 	@Override
@@ -110,8 +113,15 @@ public class UsuarioNuevoActivity extends Activity {
  //     			}
  //     	});
 
+      
       	
-        
+    	imPesos.setOnClickListener(new OnClickListener() {
+  			@Override
+  			public void onClick(View arg0){
+  					Intent intent = new Intent(UsuarioNuevoActivity.this, ConversionMoneda.class);
+  					UsuarioNuevoActivity.this.startActivity(intent);
+  			}
+    	});
 	}
 
 	/**

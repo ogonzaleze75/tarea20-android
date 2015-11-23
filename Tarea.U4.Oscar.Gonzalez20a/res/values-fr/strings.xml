@@ -6,11 +6,11 @@
     <string name="title_activity_usuario_lista">Utilisateurs</string>
     
     <string name="title_activity_usuario_nuevo">Ajouter un utilisateur</string>
-    <string name="title_activity_usuario_editar">Modifier l'utilisateur</string>
+    <string name="title_activity_usuario_editar">Modifier l utilisateur</string>
     <string name="str_mn_usuario_nuevo">Ajouter un utilisateur</string>
     <string name="str_mn_usuario_salir">Laisser</string>
-    <string name="str_usuario_nombre">Nom d'utilisateur:</string>
-    <string name="str_usuario_login">Nom d'utilisateur:</string>
+    <string name="str_usuario_nombre">Nom d utilisateur:</string>
+    <string name="str_usuario_login">Nom d utilisateur:</string>
     <string name="str_usuario_password">Mot de passe utilisateur:</string>
     <string name="str_usuario_ingresar">Ajouter</string>
     <string name="str_usuario_editar">Modifier</string>
