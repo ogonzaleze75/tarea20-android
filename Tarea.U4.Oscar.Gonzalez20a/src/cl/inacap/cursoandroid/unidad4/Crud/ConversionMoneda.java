@@ -63,7 +63,7 @@ public class ConversionMoneda extends Activity {
 				String dato = campoValor.getText().toString();
 				float valor = Float.parseFloat(dato);
 				float resultado = valor * 715;
-				String resultadoFinal ="Pesos %:  " + resultado;
+				String resultadoFinal ="CLP %:  " + resultado;
 				etiResultado.setText(resultadoFinal);
 			}
 		});
@@ -89,7 +89,7 @@ public class ConversionMoneda extends Activity {
 				String dato = campoValor.getText().toString();
 				float valor = Float.parseFloat(dato);
 				float resultado = valor * 761;
-				String resultadoFinal ="Pesos %:  " + resultado;
+				String resultadoFinal ="CLP %:  " + resultado;
 				etiResultado.setText(resultadoFinal);
 			}
 		});
