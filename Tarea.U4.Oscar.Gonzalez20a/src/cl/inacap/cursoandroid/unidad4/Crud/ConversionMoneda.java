@@ -49,7 +49,7 @@ public class ConversionMoneda extends Activity {
 				// TODO Auto-generated method stub
 				String dato = campoValor.getText().toString();
 				float valor = Float.parseFloat(dato);
-				float resultado = valor / 720;
+				float resultado = valor / 715;
 				String resultadoFinal ="US %:  " + resultado;
 				etiResultado.setText(resultadoFinal);
 			}
@@ -62,7 +62,7 @@ public class ConversionMoneda extends Activity {
 				// TODO Auto-generated method stub
 				String dato = campoValor.getText().toString();
 				float valor = Float.parseFloat(dato);
-				float resultado = valor * 720;
+				float resultado = valor * 715;
 				String resultadoFinal ="Pesos %:  " + resultado;
 				etiResultado.setText(resultadoFinal);
 			}
@@ -75,7 +75,7 @@ public class ConversionMoneda extends Activity {
 				// TODO Auto-generated method stub
 				String dato = campoValor.getText().toString();
 				float valor = Float.parseFloat(dato);
-				float resultado = valor / 750;
+				float resultado = valor / 761;
 				String resultadoFinal ="EUR %:  " + resultado;
 				etiResultado.setText(resultadoFinal);
 			}
@@ -88,7 +88,7 @@ public class ConversionMoneda extends Activity {
 				// TODO Auto-generated method stub
 				String dato = campoValor.getText().toString();
 				float valor = Float.parseFloat(dato);
-				float resultado = valor * 750;
+				float resultado = valor * 761;
 				String resultadoFinal ="Pesos %:  " + resultado;
 				etiResultado.setText(resultadoFinal);
 			}
@@ -101,7 +101,7 @@ public class ConversionMoneda extends Activity {
 				// TODO Auto-generated method stub
 				String dato = campoValor.getText().toString();
 				float valor = Float.parseFloat(dato);
-				float resultado = valor / 2;
+				float resultado = valor / 1;
 				String resultadoFinal ="US %:  " + resultado;
 				etiResultado.setText(resultadoFinal);
 			}
@@ -114,7 +114,7 @@ public class ConversionMoneda extends Activity {
 				// TODO Auto-generated method stub
 				String dato = campoValor.getText().toString();
 				float valor = Float.parseFloat(dato);
-				float resultado = valor * 2;
+				float resultado = valor * 1;
 				String resultadoFinal ="US %:  " + resultado;
 				etiResultado.setText(resultadoFinal);
 			}
